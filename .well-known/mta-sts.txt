@@ -1,4 +1,4 @@
 version: STSv1
 mode: enforce
-mx: ENTER MX RECORD HERE
-max_age: 864001
+mx: salt-discoverytrust-org.mail.protection.outlook.com
+max_age: 2224466
